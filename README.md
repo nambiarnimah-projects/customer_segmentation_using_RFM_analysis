@@ -106,7 +106,7 @@ The results of the RFM analysis were visualized in a Power BI dashboard showing:
 
 These visualizations help highlight how different customer segments behave and contribute to overall business performance.
 
-> <img width="836" height="481" alt="dashboard" src="https://github.com/user-attachments/assets/b0e64e1b-6760-4e08-aeff-3eeda6f10caf" />
+> <img width="1060" height="606" alt="preview" src="https://github.com/user-attachments/assets/92a83c8f-4a38-4e63-a09e-47cbcd284c73" />
 
 ---
 
@@ -115,6 +115,7 @@ These visualizations help highlight how different customer segments behave and c
 Through this project I practiced:
 
 - Writing analytical SQL queries  
+
 - Using window functions and aggregations for segmentation  
 - Applying RFM analysis to understand customer behavior  
 - Building dashboards to communicate insights  
