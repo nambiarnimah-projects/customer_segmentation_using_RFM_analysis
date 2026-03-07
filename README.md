@@ -57,6 +57,9 @@ The final RFM dataset was imported into Power BI to create a dashboard highlight
 ---
 
 ## Key Insights
+<img width="1060" height="606" alt="preview" src="https://github.com/user-attachments/assets/51fda56d-0473-4c3d-960e-331afcd758c4" />
+
+
 
 * **Best Customers demonstrated the highest purchase frequency**, indicating strong engagement.
 * **Big Spenders contributed the largest share of revenue**, despite lower purchase frequency.
