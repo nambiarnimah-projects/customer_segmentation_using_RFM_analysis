@@ -17,6 +17,9 @@ The analysis was performed using **SQL**, and the results were visualized throug
 This project is part of my ongoing journey learning data analytics and business-focused data analysis.
 
 ---
+## Problem
+Not all customers are equal. A business with 1000 customers might get 80% of its revenue from 100 of them — but without segmentation, there's no way to know. This project answers: who are the best customers, who is at risk of churning, and who has already gone quiet?
+
 
 ##  Dataset
 
@@ -94,6 +97,13 @@ This segmentation helps businesses understand which customers are the most valua
 - This segment represents a potential opportunity for targeted retention strategies.
 
 ---
+| Segment | Behaviour |
+|---|---|
+| Best Customers | Highest purchase frequency + strong recency |
+| Big Spenders | Largest revenue share despite lower order count |
+| At Risk | Previously active, showing signs of disengagement |
+| Lost | Low recency, low frequency — likely churned |
+
 
 ##  Dashboard
 
