@@ -116,7 +116,14 @@ The results of the RFM analysis were visualized in a Power BI dashboard showing:
 
 These visualizations help highlight how different customer segments behave and contribute to overall business performance.
 
-> <img width="1060" height="606" alt="preview" src="https://github.com/user-attachments/assets/92a83c8f-4a38-4e63-a09e-47cbcd284c73" />
+<img width="1174" height="814" alt="Screenshot 2026-06-29 113423" src="https://github.com/user-attachments/assets/1761d92e-8d6f-423f-b116-ac4ce4e384e1" />
+
+
+<img width="1382" height="849" alt="Screenshot 2026-06-29 114648" src="https://github.com/user-attachments/assets/6681149b-a6f1-4829-ad16-af9f6e2027c5" />
+
+
+<img width="1426" height="827" alt="Screenshot 2026-06-29 114709" src="https://github.com/user-attachments/assets/cc6fd304-526c-4bb7-ab07-38422e40568e" />
+
 
 ---
 
