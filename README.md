@@ -151,14 +151,3 @@ This project helped me better understand how data analysis can support customer-
 
 ---
 
-##  Future Improvements
-
-Some possible improvements for this project include:
-
-- Adding Customer Lifetime Value (CLV) analysis  
-- Including profit or margin metrics  
-- Creating interactive filters and drill-downs in the dashboard  
-- Applying the analysis to larger real-world datasets  
-
----
-
